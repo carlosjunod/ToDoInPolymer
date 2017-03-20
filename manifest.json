@@ -1,0 +1,7 @@
+{
+  "name": "mytodoapp",
+  "short_name": "mytodoapp",
+  "description": "Project for PWA - Full Sail University",
+  "start_url": "/",
+  "display": "standalone"
+}
